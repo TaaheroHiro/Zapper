@@ -1,0 +1,7 @@
+C:\Repo\Zapper\FeatureCheck\bin\Debug\FeatureCheck.exe.config
+C:\Repo\Zapper\FeatureCheck\bin\Debug\FeatureCheck.exe
+C:\Repo\Zapper\FeatureCheck\bin\Debug\FeatureCheck.pdb
+C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.AssemblyReference.cache
+C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.CoreCompileInputs.cache
+C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.exe
+C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.pdb
