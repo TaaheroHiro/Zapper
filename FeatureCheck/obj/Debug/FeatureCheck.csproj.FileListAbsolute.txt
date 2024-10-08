@@ -5,3 +5,10 @@ C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.AssemblyReference.cach
 C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.CoreCompileInputs.cache
 C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.exe
 C:\Repo\Zapper\FeatureCheck\obj\Debug\FeatureCheck.pdb
+C:\Repo\ZapperGit\Zapper\FeatureCheck\bin\Debug\FeatureCheck.exe.config
+C:\Repo\ZapperGit\Zapper\FeatureCheck\bin\Debug\FeatureCheck.exe
+C:\Repo\ZapperGit\Zapper\FeatureCheck\bin\Debug\FeatureCheck.pdb
+C:\Repo\ZapperGit\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.AssemblyReference.cache
+C:\Repo\ZapperGit\Zapper\FeatureCheck\obj\Debug\FeatureCheck.csproj.CoreCompileInputs.cache
+C:\Repo\ZapperGit\Zapper\FeatureCheck\obj\Debug\FeatureCheck.exe
+C:\Repo\ZapperGit\Zapper\FeatureCheck\obj\Debug\FeatureCheck.pdb
